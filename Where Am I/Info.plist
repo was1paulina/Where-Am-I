@@ -18,6 +18,10 @@
 	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We always need to know where you are</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need to know where you are</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
